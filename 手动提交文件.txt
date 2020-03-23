@@ -1,0 +1,12 @@
+git init 初始化仓库
+git clone Url 克隆一个仓库到本地
+创建本地文件
+
+git add 本地文件名  添加本地文件名
+git config --global user.name "仓库用户名"  
+git config --global user.email "用户邮箱XXX@xxx.com"
+
+git romate url origin  添加远程仓库交给github 管理
+
+git commit -m "提交"  提交到暂存区
+git push origin master 推送到仓库
